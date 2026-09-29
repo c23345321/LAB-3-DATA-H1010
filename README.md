@@ -1,2 +1,3 @@
-Karol Furmanczyk C23345321
-TU756
+Name: Karol
+student number: c23345321
+course code: TU756
